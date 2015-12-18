@@ -11,27 +11,27 @@
 ####Screenshots:
 
 #####Phone Initial View:
-<img href="https://raw.githubusercontent.com/navdeepsekhon/TopTenSongsAndroidApp/master/screenshots/phone_initial_view.png" alt="Top Ten Songs Android App initial view"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_initial_view.png" alt="Top Ten Songs Android App initial view"/>
 
 #####Phone Instant search:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_instant_search.png" alt="Top Ten Songs Android App instant search"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_instant_search.png" alt="Top Ten Songs Android App instant search"/>
 
 #####Phone Top Tracks for the artist:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_artist_top_songs.png" alt="Top Ten Songs Android App top tracks for the artist"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_artist_top_songs.png" alt="Top Ten Songs Android App top tracks for the artist"/>
 
 #####Phone track player:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_player.png" alt="Top Ten Songs Android App track player"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/phone_player.png" alt="Top Ten Songs Android App track player"/>
 
 
 #####Tablet Initial View:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_initial_view.PNG" alt="Top Ten Songs Android App initial view"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_initial_view.PNG" alt="Top Ten Songs Android App initial view"/>
 
 #####Tablet Instant search:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_instant_search.PNG" alt="Top Ten Songs Android App instant search"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_instant_search.PNG" alt="Top Ten Songs Android App instant search"/>
 
 #####Tablet Top Tracks for the artist:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_artist_top_songs.PNG" alt="Top Ten Songs Android App top tracks for the artist"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_artist_top_songs.PNG" alt="Top Ten Songs Android App top tracks for the artist"/>
 
 #####Tablet track player:
-<img href="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_player.PNG" alt="Top Ten Songs Android App track player"/>
+<img src="https://github.com/navdeepsekhon/TopTenSongsAndroidApp/blob/master/screenshots/tablet_player.PNG" alt="Top Ten Songs Android App track player"/>
 
