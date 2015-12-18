@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/app_red</item>
+        <item name="colorPrimaryDark">@color/app_red</item>
+    </style>
+
+    <style name="ArtistListStyle">
+    </style>
+</resources>

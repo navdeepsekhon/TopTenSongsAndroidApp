@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Ten Songs</string>
+    <string name="title_activity_top_songs">Top 10 Tracks</string>
+
+
+    <string name="tag_preview_url">preview_url</string>
+    <string name="tag_item_id">item_id</string>
+    <string name="tag_larger_image_url">larger_image_url</string>
+</resources>

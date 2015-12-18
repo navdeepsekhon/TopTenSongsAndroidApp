@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivityFragment">
+
+<fragment
+    android:id="@+id/fragment_main_search"
+    android:name="co.navdeep.toptensongs.app.SearchFieldFragment"
+    tools:layout="@layout/fragment_search_field"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+<fragment
+    android:id="@+id/fragment_main_list"
+    android:name="co.navdeep.toptensongs.app.ListFragment"
+    tools:layout="@layout/fragment_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+</LinearLayout>
